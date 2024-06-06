@@ -1,4 +1,5 @@
 # ESP32 NTP Clock with OLED Display
+![2669166C-4E84-47D6-9581-085282B236CB-min copy](https://github.com/sina-tahbaz/esp32_ntpClock/assets/110201165/fe79a371-ec5f-4b99-b427-ee538706e95e)
 
 ## Project Overview
 This project involves creating a network-enabled clock using an ESP32 microcontroller and an OLED display. The clock displays the current time, which it fetches from an NTP (Network Time Protocol) server over the internet. This project is ideal for anyone interested in building internet-connected devices with real-time capabilities.
